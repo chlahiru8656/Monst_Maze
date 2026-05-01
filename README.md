@@ -13,3 +13,10 @@ Key Features
 + User Interaction: Responsive controls and intuitive gameplay.  
 + Win/Loss Logic: Integrated conditions for game completion and scoring.  
 + Replay System: Option to restart the game without exiting the application.
+
+## 🛠️ OOP Implementation ##
+The architecture of this game is built strictly on the four pillars of Object-Oriented Programming:  
++ Encapsulation: Used to bundle data and methods within classes (e.g., Game, Player, Rules) to hide internal states and protect data integrity.  
++ Abstraction: Leveraged to simplify complex systems by modeling classes based on essential properties.  
++ Inheritance: Implemented to create a hierarchy between classes, allowing for code reuse and logical organization (e.g., different types of Players or Game Pieces).  
++ Polymorphism: Utilized to allow objects to be treated as instances of their parent class, facilitating flexible method overriding and dynamic behavior.
