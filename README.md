@@ -22,12 +22,12 @@ The architecture of this game is built strictly on the four pillars of Object-Or
 
 ## 📂 Project Structure ##
 Following the project guidelines, the code is organized into logical components:  
-Game: The main controller class managing the game loop.  
-Player: Abstract classes/interfaces for human or AI interaction.  
-Board/Grid: Logic for managing the game layout (where applicable).  
-UI: Handling the graphical or console-based interface.  
+- Game: The main controller class managing the game loop.  
+- Player: Abstract classes/interfaces for human or AI interaction.  
+- Board/Grid: Logic for managing the game layout (where applicable).  
+- UI: Handling the graphical or console-based interface.  
 
-🚀 Getting Started
+## 🚀 Getting Started ##
 Prerequisites
-Java Development Kit (JDK) 8 or higher.
-An IDE (IntelliJ IDEA, Eclipse, or NetBeans) or a terminal.
+  Java Development Kit (JDK) 8 or higher.
+  An IDE (IntelliJ IDEA, Eclipse, or NetBeans) or a terminal.
