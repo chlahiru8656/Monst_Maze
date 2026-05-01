@@ -29,5 +29,5 @@ Following the project guidelines, the code is organized into logical components:
 
 ## 🚀 Getting Started ##
 Prerequisites
-  Java Development Kit (JDK) 8 or higher.
-  An IDE (IntelliJ IDEA, Eclipse, or NetBeans) or a terminal.
+  * Java Development Kit (JDK) 8 or higher.
+  * An IDE (IntelliJ IDEA, Eclipse, or NetBeans) or a terminal.
